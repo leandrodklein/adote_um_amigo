@@ -1,0 +1,5 @@
+node_modules
+adote_um_amigo_backend/public/images/pets/*.png
+adote_um_amigo_backend/public/images/pets/*.jpg
+adote_um_amigo_backend/public/images/users/*.png
+adote_um_amigo_backend/public/images/users/*.jpg
